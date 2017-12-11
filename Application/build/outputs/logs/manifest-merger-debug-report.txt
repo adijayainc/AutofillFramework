@@ -1,0 +1,243 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:16:1-56:12
+INJECTED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:16:1-56:12
+INJECTED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:16:1-56:12
+MERGED from [com.android.support:support-v13:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/be51c95c7422432a52702bdc989285b8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:design:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f4f01e9e10055cf4fdc68975524469f9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ae08bb5e7dc191d861914ba2071dfe66/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/c8d468d96fec0201d8f13b9b3c3fab4f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d052f04616f0e92681398f4c8af8216c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/8a677e6dd4cd08dad66439e2b560ee81/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6049eb4454edeb28e8205161b5a036e7/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4b3e89f6568be8c5eca8a9618ddff093/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c4ba9ea99f3a3584ff52264ca094dbca/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0184ef6ba4d1e6b633a167e857941649/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/14769d0f941672b402b2d3b2fda7f2f1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/1b850b053ad0051271abf0de8e8ad257/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/8669ee9e5b4f696394cdd257f51df983/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/1e57afd71d4345865c4ff6bf928df4fa/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/34238d5015cf46a2c9574d14d9fba9c0/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/72744c757c0c818390cc527b9442bb24/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:16:1-56:12
+INJECTED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:16:1-56:12
+	package
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:17:5-47
+	android:versionName
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:19:5-30
+		INJECTED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:16:11-69
+	android:versionCode
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:18:5-28
+		INJECTED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:21:22-64
+application
+ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:23:5-54:19
+MERGED from [com.android.support:support-v13:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/be51c95c7422432a52702bdc989285b8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v13:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/be51c95c7422432a52702bdc989285b8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f4f01e9e10055cf4fdc68975524469f9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f4f01e9e10055cf4fdc68975524469f9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ae08bb5e7dc191d861914ba2071dfe66/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ae08bb5e7dc191d861914ba2071dfe66/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/c8d468d96fec0201d8f13b9b3c3fab4f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/c8d468d96fec0201d8f13b9b3c3fab4f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d052f04616f0e92681398f4c8af8216c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d052f04616f0e92681398f4c8af8216c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/8a677e6dd4cd08dad66439e2b560ee81/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/8a677e6dd4cd08dad66439e2b560ee81/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6049eb4454edeb28e8205161b5a036e7/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6049eb4454edeb28e8205161b5a036e7/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4b3e89f6568be8c5eca8a9618ddff093/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4b3e89f6568be8c5eca8a9618ddff093/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c4ba9ea99f3a3584ff52264ca094dbca/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c4ba9ea99f3a3584ff52264ca094dbca/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0184ef6ba4d1e6b633a167e857941649/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0184ef6ba4d1e6b633a167e857941649/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/14769d0f941672b402b2d3b2fda7f2f1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/14769d0f941672b402b2d3b2fda7f2f1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/1b850b053ad0051271abf0de8e8ad257/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/1b850b053ad0051271abf0de8e8ad257/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/8669ee9e5b4f696394cdd257f51df983/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/8669ee9e5b4f696394cdd257f51df983/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/1e57afd71d4345865c4ff6bf928df4fa/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/1e57afd71d4345865c4ff6bf928df4fa/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/34238d5015cf46a2c9574d14d9fba9c0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/34238d5015cf46a2c9574d14d9fba9c0/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/72744c757c0c818390cc527b9442bb24/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/72744c757c0c818390cc527b9442bb24/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:27:9-35
+	android:label
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:26:9-41
+	android:icon
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:28:9-53
+activity#com.example.android.autofill.app.MainActivity
+ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:29:9-36:20
+	android:taskAffinity
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:31:13-49
+	android:name
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:30:13-73
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:34:27-74
+activity#com.example.android.autofill.app.commoncases.StandardSignInActivity
+ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:37:9-104
+	android:name
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:37:19-101
+activity#com.example.android.autofill.app.commoncases.StandardAutoCompleteSignInActivity
+ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:38:9-116
+	android:name
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:38:19-113
+activity#com.example.android.autofill.app.commoncases.VirtualSignInActivity
+ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:39:9-103
+	android:name
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:39:19-100
+activity#com.example.android.autofill.app.WelcomeActivity
+ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:40:9-85
+	android:name
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:40:19-82
+activity#com.example.android.autofill.app.edgecases.CreditCardActivity
+ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:41:9-98
+	android:name
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:41:19-95
+activity#com.example.android.autofill.app.commoncases.CreditCardSpinnersActivity
+ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:42:9-108
+	android:name
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:42:19-105
+activity#com.example.android.autofill.app.commoncases.EmailComposeActivity
+ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:43:9-102
+	android:name
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:43:19-99
+activity#com.example.android.autofill.app.commoncases.CreditCardCompoundViewActivity
+ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:44:9-112
+	android:name
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:44:19-109
+activity#com.example.android.autofill.app.commoncases.CreditCardDatePickerActivity
+ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:45:9-110
+	android:name
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:45:19-107
+activity#com.example.android.autofill.app.edgecases.CreditCardAntiPatternActivity
+ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:46:9-109
+	android:name
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:46:19-106
+activity#com.example.android.autofill.app.edgecases.MultiplePartitionsActivity
+ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:47:9-49:72
+	android:theme
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:49:13-69
+	android:name
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:48:13-97
+activity#com.example.android.autofill.app.commoncases.WebViewSignInActivity
+ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:50:9-103
+	android:name
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:50:19-100
+activity#com.example.android.autofill.app.edgecases.MultipleStepsSignInActivity
+ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:51:9-107
+	android:name
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:51:19-104
+activity#com.example.android.autofill.app.edgecases.MultipleStepsCreditCardActivity
+ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:52:9-111
+	android:name
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml:52:19-108
+uses-sdk
+INJECTED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/be51c95c7422432a52702bdc989285b8/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/be51c95c7422432a52702bdc989285b8/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:design:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f4f01e9e10055cf4fdc68975524469f9/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f4f01e9e10055cf4fdc68975524469f9/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ae08bb5e7dc191d861914ba2071dfe66/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ae08bb5e7dc191d861914ba2071dfe66/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/c8d468d96fec0201d8f13b9b3c3fab4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/c8d468d96fec0201d8f13b9b3c3fab4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d052f04616f0e92681398f4c8af8216c/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d052f04616f0e92681398f4c8af8216c/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/8a677e6dd4cd08dad66439e2b560ee81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/8a677e6dd4cd08dad66439e2b560ee81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6049eb4454edeb28e8205161b5a036e7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6049eb4454edeb28e8205161b5a036e7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4b3e89f6568be8c5eca8a9618ddff093/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4b3e89f6568be8c5eca8a9618ddff093/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c4ba9ea99f3a3584ff52264ca094dbca/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c4ba9ea99f3a3584ff52264ca094dbca/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0184ef6ba4d1e6b633a167e857941649/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0184ef6ba4d1e6b633a167e857941649/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/14769d0f941672b402b2d3b2fda7f2f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/14769d0f941672b402b2d3b2fda7f2f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/1b850b053ad0051271abf0de8e8ad257/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/1b850b053ad0051271abf0de8e8ad257/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/8669ee9e5b4f696394cdd257f51df983/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/8669ee9e5b4f696394cdd257f51df983/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/1e57afd71d4345865c4ff6bf928df4fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/1e57afd71d4345865c4ff6bf928df4fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/34238d5015cf46a2c9574d14d9fba9c0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/34238d5015cf46a2c9574d14d9fba9c0/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/72744c757c0c818390cc527b9442bb24/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/72744c757c0c818390cc527b9442bb24/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/be51c95c7422432a52702bdc989285b8/AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/adijaya/AndroidStudioProjects/AutofillFramework/Application/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/be51c95c7422432a52702bdc989285b8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:design:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f4f01e9e10055cf4fdc68975524469f9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:design:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f4f01e9e10055cf4fdc68975524469f9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ae08bb5e7dc191d861914ba2071dfe66/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ae08bb5e7dc191d861914ba2071dfe66/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/c8d468d96fec0201d8f13b9b3c3fab4f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/c8d468d96fec0201d8f13b9b3c3fab4f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d052f04616f0e92681398f4c8af8216c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d052f04616f0e92681398f4c8af8216c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/8a677e6dd4cd08dad66439e2b560ee81/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/8a677e6dd4cd08dad66439e2b560ee81/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4b3e89f6568be8c5eca8a9618ddff093/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4b3e89f6568be8c5eca8a9618ddff093/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c4ba9ea99f3a3584ff52264ca094dbca/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c4ba9ea99f3a3584ff52264ca094dbca/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0184ef6ba4d1e6b633a167e857941649/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0184ef6ba4d1e6b633a167e857941649/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/14769d0f941672b402b2d3b2fda7f2f1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/14769d0f941672b402b2d3b2fda7f2f1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/1b850b053ad0051271abf0de8e8ad257/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/1b850b053ad0051271abf0de8e8ad257/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/8669ee9e5b4f696394cdd257f51df983/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/8669ee9e5b4f696394cdd257f51df983/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/1e57afd71d4345865c4ff6bf928df4fa/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/1e57afd71d4345865c4ff6bf928df4fa/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/34238d5015cf46a2c9574d14d9fba9c0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/34238d5015cf46a2c9574d14d9fba9c0/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v13:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/be51c95c7422432a52702bdc989285b8/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v13:26.1.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/be51c95c7422432a52702bdc989285b8/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/72744c757c0c818390cc527b9442bb24/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/72744c757c0c818390cc527b9442bb24/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/adijaya/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/72744c757c0c818390cc527b9442bb24/AndroidManifest.xml:26:13-58

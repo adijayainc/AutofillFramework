@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/adijaya/AndroidStudioProjects/AutofillFramework/afservice/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "/Users/adijaya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ae08bb5e7dc191d861914ba2071dfe66/res/values-v25/values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}
